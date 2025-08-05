@@ -14,7 +14,7 @@ Get it [here](https://github.com/EdgeIY/infiniteyield/wiki)
 ### Developer: Moon
 ### Developer: Zwolf
 ### Developer: Toon
-
+### who took this code and changed like 3 lines: montethereal
 
 ## Usage
 You can learn how to use all the features of this script in the wiki!
